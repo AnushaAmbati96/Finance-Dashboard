@@ -48,6 +48,7 @@ The dashboard simplifies complex financial data into actionable insights, helpin
 
 ----------
 Future Enhancements
+
 Predictive analytics for delinquency forecasting
 Integration with live financial/ERP systems
 Advanced alerting for risk thresholds
