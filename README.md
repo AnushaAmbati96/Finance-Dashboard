@@ -48,5 +48,3 @@ This project reduces manual reporting efforts and improves the accuracy and acce
 ---
 
 Feel free to explore, fork, or contribute to enhance this project!
-
-If you want, I can tailor it to a more technical, recruiter-friendly, or beginner-focused version.
