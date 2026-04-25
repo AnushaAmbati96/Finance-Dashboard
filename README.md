@@ -1,49 +1,56 @@
-# Finance-Dashboard
+Finance Dashboard – Qlik Cloud
+-------
+Overview
 
-# Finance Analytics Dashboard – Qlik Cloud
+This project is an interactive Finance Dashboard developed in Qlik Cloud to monitor financial performance, contract lifecycle, and risk indicators. It enables users to analyze key metrics such as outstanding amounts, interest rates, collections, and delinquency trends through a centralized and user-friendly interface.
 
-## Overview
+----------
+Key Metrics
 
-This project showcases an end-to-end finance analytics solution built using Qlik Cloud. It focuses on transforming raw financial data into meaningful insights through interactive dashboards and automated data workflows. The goal is to enhance financial visibility, streamline reporting, and support data-driven decision-making.
+Principal Outstanding Amount: 933.2K
+Weighted Average Interest Rate: 6.1%
+Collection Rate: 89.7%
 
-## Features
+----------
+Dashboard Features
 
-* Data integration from multiple financial sources
-* Automated data transformation and modeling
-* Interactive dashboards with dynamic filtering
-* Key financial KPIs: revenue, expenses, profit margins, and variance analysis
-* Real-time insights for faster decision-making
+Contract Status Analysis: Visual breakdown of Active, Completed, In Arrears, Cancelled, and Defaulted contracts
+Delinquency Breakdown: Detailed table with contract-level DPD (Days Past Due) categorization
+Delinquency Trends: Year-over-year comparison of delinquency percentages
+Contracts Trend: Monthly distribution of contract volumes
+Principal Amount Trend: Tracking growth and fluctuations in outstanding principal
 
-## Tech Stack
+---------
+Interactivity
 
-* Qlik Cloud (Data Integration & Visualization)
-* ETL / Data Modeling Techniques
-* Financial Data Analysis
+Filters for Year, Region, Certification Level, Finance Options, and Credit Score
+Drill-down and cross-filtering capabilities
+Dynamic and responsive visualizations
 
-## Use Cases
+----------
+Tech Stack
 
-* Financial performance tracking
-* Budget vs actual analysis
-* Profitability and cost analysis
-* Executive reporting dashboards
+Qlik Cloud (Dashboarding & Data Visualization)
+Data Modeling & Transformation (Qlik scripting)
 
-## Project Structure
+---------
+Use Cases
 
-* `/data` – Sample datasets (if applicable)
-* `/scripts` – Data load and transformation scripts
-* `/dashboards` – Qlik dashboard configurations / exports
-* `/docs` – Documentation and screenshots
+Financial performance monitoring
+Risk and delinquency analysis
+Portfolio management
+Executive reporting
 
-## Getting Started
+----------
+Outcome
 
-1. Import datasets into Qlik Cloud
-2. Load and transform data using provided scripts
-3. Build or import dashboards
-4. Customize KPIs and filters as needed
+The dashboard simplifies complex financial data into actionable insights, helping users quickly identify trends, monitor risk, and improve decision-making efficiency.
 
-## Outcomes
-
-This project reduces manual reporting efforts and improves the accuracy and accessibility of financial insights, enabling better strategic decisions.
+----------
+Future Enhancements
+Predictive analytics for delinquency forecasting
+Integration with live financial/ERP systems
+Advanced alerting for risk thresholds
 
 ---
 
